@@ -1,24 +1,4 @@
- <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding-left: 20px;
-    }
-    li {
-      margin: 5px 0;
-    }
-    li::before {
-      content: "📁 ";
-    }
-    .file::before {
-      content: "📄 ";
-    }
-  </style>
-</head>
+
 <body>
   <h1>Структура проекта</h1>
   <ul>
