@@ -14,7 +14,7 @@
             <li class="file">main.jsx</li>
             <li class="file">App.jsx</li>
             <li class="file">App.css</li>
-            <li>components/
+            <ul>components/
               <ul>
                 <li class="file">Header.jsx</li>
                 <li class="file">Header.css</li>
